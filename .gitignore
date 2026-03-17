@@ -1,1 +1,16 @@
+# Outputs
+results/
+plots/
 
+# Large genomic files
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.tbi
+
+# Logs
+*.log
+
+# System
+.DS_Store
